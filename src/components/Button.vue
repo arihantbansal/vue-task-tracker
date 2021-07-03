@@ -12,8 +12,8 @@ export default {
 		color: String,
 	},
 	methods: {
-		onClick() { 
-			console.log("click");
+		onClick() {
+			this.$emit("btn-click");
 		},
 	},
 };
