@@ -3,25 +3,25 @@
 		{
 			"id": "1",
 			"text": "Doctors Appointment",
-			"day": "March 5th at 2:30pm",
+			"day": "July 5th at 2:30pm",
 			"reminder": true
 		},
 		{
 			"id": "2",
 			"text": "Meeting with boss",
-			"day": "March 6th at 1:30pm",
+			"day": "July 6th at 1:30pm",
 			"reminder": true
 		},
 		{
 			"id": "3",
 			"text": "Food shopping",
-			"day": "March 7th at 2:00pm",
+			"day": "July 7th at 2:00pm",
 			"reminder": false
 		},
 		{
 			"id": 34401,
 			"text": "Interview",
-			"day": "March 12th at 5:30pm",
+			"day": "July 12th at 5:30pm",
 			"reminder": true
 		}
 	]
