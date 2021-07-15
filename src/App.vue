@@ -14,8 +14,6 @@
 <script>
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import Tasks from "./components/Tasks";
-import TaskForm from "./components/TaskForm";
 
 export default {
 	name: "App",
